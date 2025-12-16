@@ -7,7 +7,7 @@ I focus on building **end-to-end data science solutions** and **LLM-powered AI a
 
 ---
 
-## 🔹 What I Work On
+## 🔹 What I Build
 - End-to-end Machine Learning (EDA → Modeling → Evaluation → Deployment)
 - Statistical Analysis & Experimentation (A/B testing, forecasting)
 - AI Engineering (LLM agents, RAG systems, tool-using agents)
