@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Faridoon
 
-<!--
-**FaridoonFarahi/FaridoonFarahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist | AI Engineer
 
-Here are some ideas to get you started:
+I’m a Data Scientist and AI Engineer with strong experience in **analytics, machine learning, and automation**.  
+I focus on building **end-to-end data science solutions** and **LLM-powered AI agents** that solve real business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 What I Work On
+- End-to-end Machine Learning (EDA → Modeling → Evaluation → Deployment)
+- Statistical Analysis & Experimentation (A/B testing, forecasting)
+- AI Engineering (LLM agents, RAG systems, tool-using agents)
+- Data Analytics & Automation (Python, SQL)
+
+---
+
+## 🚀 Featured Projects (In Progress)
+🔹 **End-to-End ML Business Case**  
+Customer churn prediction with cost-based evaluation and deployment  
+➡️ *Repository coming soon*
+
+🔹 **LLM SQL Analyst Agent**  
+Natural language → SQL → automated insights  
+➡️ *Repository coming soon*
+
+🔹 **RAG Agent with Citations**  
+Document-based question answering with hallucination control  
+➡️ *Repository coming soon*
+
+🔹 **Production ML Template**  
+Reusable ML project structure with testing and CI  
+➡️ *Repository coming soon*
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, SQL  
+**ML:** Scikit-learn, XGBoost, SHAP  
+**AI / LLMs:** OpenAI APIs, LangChain, LangGraph  
+**Data:** Pandas, NumPy  
+**Deployment:** FastAPI, Streamlit  
+**Tools:** Git, GitHub Actions, Docker (basic)
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/faridoon-farahi
