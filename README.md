@@ -20,6 +20,17 @@ I focus on building **end-to-end data science solutions** and **LLM-powered AI a
 Customer churn prediction with cost-based evaluation and deployment  
 Repository : https://github.com/FaridoonFarahi/end-to-end-ml-business-case
 
+🔹 **Ames-Iowa-Housing-Analysis**  
+Repository : https://github.com/FaridoonFarahi/Ames-Iowa-Housing-Analysis
+
+🔹 **Predicting-Subreddit-Categories**  
+This project is aimed at predicting the subbredit categories for different comments belonging to categories of boardgames and videogames 
+Repository : https://github.com/FaridoonFarahi/Predicting-Subreddit-Categories
+
+🔹 **Twitter-Sentiment-Analysis**  
+Bitcoin Daily Price Prediction Using Twitter Sentiment Analysis 
+Repository : https://github.com/FaridoonFarahi/Twitter-Sentiment-Analysis
+
 🔹 **LLM SQL Analyst Agent**  
 Natural language → SQL → automated insights  
 ➡️ *Repository coming soon*
