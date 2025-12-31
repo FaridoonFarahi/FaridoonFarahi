@@ -16,6 +16,10 @@ I focus on building **end-to-end data science solutions** and **LLM-powered AI a
 ---
 
 ## 🚀 Featured Projects
+🔹 **LLM SQL Analyst Agent**  
+Natural language → SQL → automated insights  
+➡️ Repository: https://github.com/FaridoonFarahi/llm-sql-analyst-agent
+
 🔹 **End-to-End ML Business Case**  
 Customer churn prediction with cost-based evaluation and deployment  
 ➡️ Repository: https://github.com/FaridoonFarahi/end-to-end-ml-business-case
@@ -30,10 +34,6 @@ Predicting subreddit categories for comments related to board games and video ga
 🔹 **Twitter-Sentiment-Analysis**  
 This project aims to predict daily changes in Bitcoin's price by analyzing Twitter sentiment.  
 ➡️ Repository: https://github.com/FaridoonFarahi/Twitter-Sentiment-Analysis
-
-🔹 **LLM SQL Analyst Agent**  
-Natural language → SQL → automated insights  
-➡️ *Repository coming soon*
 
 🔹 **RAG Agent with Citations**  
 Document-based question answering with hallucination control  
