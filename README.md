@@ -28,7 +28,7 @@ This project is aimed at predicting the subbredit categories for different comme
 Repository : https://github.com/FaridoonFarahi/Predicting-Subreddit-Categories
 
 🔹 **Twitter-Sentiment-Analysis**  
-Bitcoin Daily Price Prediction Using Twitter Sentiment Analysis 
+This project aims to predict daily changes in Bitcoin's price by analyzing Twitter sentiment.
 Repository : https://github.com/FaridoonFarahi/Twitter-Sentiment-Analysis
 
 🔹 **LLM SQL Analyst Agent**  
