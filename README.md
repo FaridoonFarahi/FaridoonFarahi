@@ -18,7 +18,7 @@ I focus on building **end-to-end data science solutions** and **LLM-powered AI a
 ## 🚀 Featured Projects
 🔹 **End-to-End Retrieval-Augmented Generation System**  
 Document-based question answering with hallucination control  
-➡️ Repository: https://github.com/FaridoonFarahi/rag-doc-chats/tree/main
+➡️ Repository: https://github.com/FaridoonFarahi/rag-doc-chats
 
 🔹 **LLM SQL Analyst Agent**  
 Natural language → SQL → automated insights  
