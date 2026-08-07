@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Faridoon
 ## Data Scientist | AI Engineer
-I'm a Data Scientist and AI Engineer with strong experience in analytics, machine learning, and automation.  
-I focus on building **end-to-end data science solutions and LLM-powered AI agents that solve real business problems.
+#### I'm a Data Scientist and AI Engineer with strong experience in analytics, machine learning, and automation.  
+#### I focus on building end-to-end data science solutions and LLM-powered AI agents that solve real business problems.
 ---
 ## 🔹 What I Build
 - End-to-end Machine Learning (EDA → Modeling → Evaluation → Deployment)
